@@ -1,3 +1,8 @@
 name = "workers-visitors"
 main = "src/index.ts"
 compatibility_date = "2022-11-10"
+
+kvnamespaces = [
+  { binding = "DB", id = "4fc7676eb82d4845a32c531324a92296",
+  preview_id = "c9d2ad5f05cc4ca38001ad99b227f729" }
+]
